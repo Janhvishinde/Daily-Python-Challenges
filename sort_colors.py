@@ -1,5 +1,3 @@
-# Sort an Array of 0s, 1s, and 2s
-# Using Dutch National Flag Algorithm (Edsger Dijkstra)
 
 def sortColors(arr):
     low, mid, high = 0, 0, len(arr) - 1
