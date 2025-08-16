@@ -1,2 +1,2 @@
-# Janhvi
-Daily Programming Challenges 
+# Janhvi Shinde
+# Daily Programming Challenges 
