@@ -1,8 +1,3 @@
-# Reverse a String Word by Word
-# Problem: Given a string s, reverse the order of words. 
-# A word is defined as a sequence of non-space characters. 
-# The output should not contain leading/trailing spaces, 
-# and multiple spaces should be reduced to a single space.
 
 def reverseWords(s: str) -> str:
     # Step 1: Split the string by spaces (removes multiple spaces automatically)
